@@ -1,2 +1,5 @@
 # RUHL_PowerShell_LSTI
 Repositorio de Trabajos hechos en la asignatura Programación para Ciberseguridad
+Este repositorio contiene algunos de los trabajos de la asignatura de "Programación para ciberseguridad", el Ej 4 obtiene todos los usuarios locales de una maquina y verifica cuales han iniciado sesión recientemente y cuales nunca lo han hecho y genera un reporte en un archivo de texto plano, sirve para comprobar si es que hay un usuario que no reconozcamos que puede estar infectado nuestro dispositivo.
+Para el Ejercicio 6 es una auditoria básica la cual la compone de un modulo y una pagina principal donde se importa el modulo del cual creamos unas funciones personalizadas, que al igual que el EJ4 nos devuelve los usuarios inactivos, además de una segunda función para verificar los servicios de externos que actuan en nuestro dispositivo, ideal para saber si un software malicioso se esta ejecutando.
+Lo más importante que aprendi al hacerlos es el entorno de trabajo de powershell y como es que los archivos y comandos funcionan realmente en practica.
